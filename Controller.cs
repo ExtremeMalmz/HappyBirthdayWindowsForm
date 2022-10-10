@@ -1,0 +1,7 @@
+namespace Controllerspace
+{
+    class Controller
+    {
+
+    }
+}
